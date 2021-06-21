@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1207785089",
+    "project_id": "sakhii-d551f",
+    "storage_bucket": "sakhii-d551f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1207785089:android:04a8c0de7c61998ba59f80",
+        "android_client_info": {
+          "package_name": "com.example.sakhii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1207785089-ng5m9mtgop46hpgnpf9m5kvh4c6f7q3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_BgHIToJkD5g4ZzAOSEdKnwMGKj8XUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1207785089-ng5m9mtgop46hpgnpf9m5kvh4c6f7q3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
